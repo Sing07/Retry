@@ -7,14 +7,9 @@ wefwefwef
 
 ===
 main:
-let's see
-1
+let's learn again
 ====
 
 ===
 osem:
-1
-2
-3
-4
 ====
