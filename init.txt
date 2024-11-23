@@ -25,4 +25,7 @@ okay 2
 okay 3
 rebase 1
 rebase 2
+rebase 3
+squash1
+squash2
 ====
